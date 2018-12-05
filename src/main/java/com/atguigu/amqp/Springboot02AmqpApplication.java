@@ -9,7 +9,7 @@ public class Springboot02AmqpApplication {
 
 
 	/**
-	 * 自动配置
+	 * 自动配置11111111111111
 	 *  1、RabbitAutoConfiguration
 	 *  2、有自动配置了连接工厂ConnectionFactory；
 	 *  3、RabbitProperties 封装了 RabbitMQ的配置
